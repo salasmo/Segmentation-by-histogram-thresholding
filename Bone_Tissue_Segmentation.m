@@ -3,7 +3,7 @@ clear;
 close all;
 
 % Folder containing DICOM files
-dicomFolder = 'C:\Users\santi\OneDrive\Documentos\MATLAB 2025\DU01_knee_06mm';
+dicomFolder = ''; %Add the path of the dataset
 
 % Read all DICOM files from the folder
 dicomFiles = dir(fullfile(dicomFolder, '*.dcm'));
