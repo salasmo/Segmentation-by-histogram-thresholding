@@ -1,3 +1,4 @@
+%Luis Fernando Molina
 clear all; close; clc;
 
 carpeta = 'DU01_knee_06mm'; 
