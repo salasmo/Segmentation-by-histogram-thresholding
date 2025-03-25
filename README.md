@@ -1,1 +1,0 @@
-# Segmentation-by-histogram-thresholding
